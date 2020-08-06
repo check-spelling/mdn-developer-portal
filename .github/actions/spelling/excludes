@@ -1,0 +1,7 @@
+ignore$
+\.ico$
+\.jpg$
+\.png$
+\.svg$
+\.woff2?$
+^\.github/actions/
